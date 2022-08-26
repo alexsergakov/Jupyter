@@ -1,2 +1,2 @@
-C:\Work\DataAnalyst\Jupyter
-jupiter notebook
+C:\Work\DataAnalyst\Jupyter\Jupyter
+jupyter notebook
